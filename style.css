@@ -116,6 +116,10 @@ body {
     font-size: 15px;
 }
 
+.social-links a:hover {
+     color: #ff7f00;
+}
+
 
  #container {
      margin-top: -10px;
